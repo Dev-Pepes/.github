@@ -1,5 +1,20 @@
-# Member List
+# Member
 
-| [![Bongusu](https://avatars.githubusercontent.com/bongsh0112)](https://github.com/bongsh0112) | [![Jong1](https://avatars.githubusercontent.com/donsonioc2010)](https://github.com/donsonioc2010) | [![Dongyoung](https://avatars.githubusercontent.com/dongyoungs)](https://github.com/dongyoungs) | [![devmelonlee](https://avatars.githubusercontent.com/devmelonlee)](https://github.com/devmelonlee) | [![werybalert](https://avatars.githubusercontent.com/werybalert)](https://github.com/werybalert) | [![wooki37](https://avatars.githubusercontent.com/wooki37)](https://github.com/wooki37) |
-| :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-|                             [세환](https://github.com/bongsh0112)                             |                             [종원](https://github.com/donsonioc2010)                              |                              [동영](https://github.com/dongyoungs)                              |                               [승혁](https://github.com/devmelonlee)                                |                              [호일](https://github.com/werybalert)                               |                           [현욱](https://github.com/wooki37)                            |
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/bongsh0112"><img src="https://avatars.githubusercontent.com/bongsh0112" width="140px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/donsonioc2010"><img src="https://avatars.githubusercontent.com/donsonioc2010" width="140px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/dongyoungs"><img src="https://avatars.githubusercontent.com/dongyoungs" width="140px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/devmelonlee"><img src="https://avatars.githubusercontent.com/devmelonlee" width="140px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/werybalert"><img src="https://avatars.githubusercontent.com/werybalert" width="140px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/wooki37"><img src="https://avatars.githubusercontent.com/wooki37" width="140px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/bongsh0112"><b>세환</b></a></td>
+    <td align="center"><a href="https://github.com/donsonioc2010"><b>종원</b></a></td>
+    <td align="center"><a href="https://github.com/dongyoungs"><b>동영</b></a></td>
+    <td align="center"><a href="https://github.com/devmelonlee"><b>승혁</b></a></td>
+    <td align="center"><a href="https://github.com/werybalert"><b>호일</b></a></td>
+    <td align="center"><a href="https://github.com/wooki37"><b>현욱</b></a></td>
+  </tr>
+</table>
