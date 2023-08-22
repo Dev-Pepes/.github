@@ -1,3 +1,9 @@
+# Introduce
+
+![pepe_치얼스](img/pepe_cheer.jpg)
+
+> 페페와 함께 치얼스~
+
 # Member
 
 <table>
@@ -8,6 +14,7 @@
     <td align="center"><a href="https://github.com/devmelonlee"><img src="https://avatars.githubusercontent.com/devmelonlee" width="140px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/werybalert"><img src="https://avatars.githubusercontent.com/werybalert" width="140px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/wooki37"><img src="https://avatars.githubusercontent.com/wooki37" width="140px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/shin2012649"><img src="https://avatars.githubusercontent.com/shin2012649" width="140px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/bongsh0112"><b>세환</b></a></td>
@@ -16,5 +23,6 @@
     <td align="center"><a href="https://github.com/devmelonlee"><b>승혁</b></a></td>
     <td align="center"><a href="https://github.com/werybalert"><b>호일</b></a></td>
     <td align="center"><a href="https://github.com/wooki37"><b>현욱</b></a></td>
+    <td align="center"><a href="https://github.com/shin2012649"><b>현우</b></a></td>
   </tr>
 </table>
