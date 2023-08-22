@@ -1,6 +1,6 @@
 # Introduce
 
-![pepe_치얼스](img/pepe_cheer.jpg)
+![pepe_치얼스](https://i.namu.wiki/i/g6LsAKFJRsuNeVviVu05SzvoJcjHtO2FCEFWSWclSohApnEA5k23lQQXrkQXxqiD-mxJE8QIiKdjnCQZ6F1F9mx3GQo3zvvZVbUvAE6ZSWNtabE0f8mz_KJQEpWKD4_0T2G1HSZT7fMlPI4CgXQW4w.webp)
 
 > 페페와 함께 치얼스~
 
