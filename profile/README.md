@@ -4,7 +4,7 @@
 
 > 페페와 함께 치얼스~
 
-<detals>
+<details>
   <summary><b>[ 👨‍👩‍👦‍👦 Member]</b></summary>
   <div markdown="1">
     <details>
@@ -44,4 +44,4 @@
       </div>
     </details>
   </div>
-</detals>
+</details>
