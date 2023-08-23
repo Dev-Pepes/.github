@@ -20,7 +20,8 @@
         </table>
       </div>
     </details>
-    <summary>Full Stack... Slaves...</summary>
+    <details>
+      <summary>Full Stack... Slaves...</summary>
       <div class="slaves">
         <table>
           <tr>
@@ -41,5 +42,6 @@
           </tr>
         </table>
       </div>
+    </details>
   </div>
 </detals>
